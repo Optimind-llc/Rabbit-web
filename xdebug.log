@@ -78,3 +78,83 @@ W: Remote address not found, connecting to configured address/port: 10.72.29.214
 E: Time-out connecting to client. :-(
 Log closed at 2016-06-05 07:45:55
 
+Log opened at 2016-06-05 07:49:05
+I: Checking remote connect back address.
+I: Checking header 'HTTP_X_FORWARDED_FOR'.
+I: Checking header 'REMOTE_ADDR'.
+W: Remote address not found, connecting to configured address/port: 10.72.29.214:9000. :-|
+E: Time-out connecting to client. :-(
+Log closed at 2016-06-05 07:49:05
+
+Log opened at 2016-06-05 07:49:12
+I: Checking remote connect back address.
+I: Checking header 'HTTP_X_FORWARDED_FOR'.
+I: Checking header 'REMOTE_ADDR'.
+W: Remote address not found, connecting to configured address/port: 10.72.29.214:9000. :-|
+E: Time-out connecting to client. :-(
+Log closed at 2016-06-05 07:49:12
+
+Log opened at 2016-06-05 07:50:03
+I: Checking remote connect back address.
+I: Checking header 'HTTP_X_FORWARDED_FOR'.
+I: Checking header 'REMOTE_ADDR'.
+W: Remote address not found, connecting to configured address/port: 10.72.29.214:9000. :-|
+E: Time-out connecting to client. :-(
+Log closed at 2016-06-05 07:50:03
+
+Log opened at 2016-06-05 07:50:04
+I: Checking remote connect back address.
+I: Checking header 'HTTP_X_FORWARDED_FOR'.
+I: Checking header 'REMOTE_ADDR'.
+W: Remote address not found, connecting to configured address/port: 10.72.29.214:9000. :-|
+E: Time-out connecting to client. :-(
+Log closed at 2016-06-05 07:50:04
+
+Log opened at 2016-06-05 07:50:17
+I: Checking remote connect back address.
+I: Checking header 'HTTP_X_FORWARDED_FOR'.
+I: Checking header 'REMOTE_ADDR'.
+W: Remote address not found, connecting to configured address/port: 10.72.29.214:9000. :-|
+E: Time-out connecting to client. :-(
+Log closed at 2016-06-05 07:50:18
+
+Log opened at 2016-06-05 07:50:22
+I: Checking remote connect back address.
+I: Checking header 'HTTP_X_FORWARDED_FOR'.
+I: Checking header 'REMOTE_ADDR'.
+W: Remote address not found, connecting to configured address/port: 10.72.29.214:9000. :-|
+E: Time-out connecting to client. :-(
+Log closed at 2016-06-05 07:50:22
+
+Log opened at 2016-06-05 07:50:23
+I: Checking remote connect back address.
+I: Checking header 'HTTP_X_FORWARDED_FOR'.
+I: Checking header 'REMOTE_ADDR'.
+W: Remote address not found, connecting to configured address/port: 10.72.29.214:9000. :-|
+E: Time-out connecting to client. :-(
+Log closed at 2016-06-05 07:50:23
+
+Log opened at 2016-06-05 07:50:27
+I: Checking remote connect back address.
+I: Checking header 'HTTP_X_FORWARDED_FOR'.
+I: Checking header 'REMOTE_ADDR'.
+W: Remote address not found, connecting to configured address/port: 10.72.29.214:9000. :-|
+E: Time-out connecting to client. :-(
+Log closed at 2016-06-05 07:50:27
+
+Log opened at 2016-06-05 07:59:35
+I: Checking remote connect back address.
+I: Checking header 'HTTP_X_FORWARDED_FOR'.
+I: Checking header 'REMOTE_ADDR'.
+W: Remote address not found, connecting to configured address/port: 10.72.29.214:9000. :-|
+E: Time-out connecting to client. :-(
+Log closed at 2016-06-05 07:59:35
+
+Log opened at 2016-06-05 07:59:41
+I: Checking remote connect back address.
+I: Checking header 'HTTP_X_FORWARDED_FOR'.
+I: Checking header 'REMOTE_ADDR'.
+W: Remote address not found, connecting to configured address/port: 10.72.29.214:9000. :-|
+E: Time-out connecting to client. :-(
+Log closed at 2016-06-05 07:59:41
+
